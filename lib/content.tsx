@@ -1,12 +1,10 @@
 'use client'
 
-import { useTheme } from "next-themes";
 import Button from "./button";
 import { useEffect, useState } from "react";
 
 export default function Content() {
 
-    const { theme } = useTheme();
     const [mounted, setMounted] = useState<boolean>(false);
 
     useEffect(() => setMounted(true), []);
