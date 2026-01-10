@@ -1,6 +1,11 @@
 # Next Theme
 Testing of light and dark theme with Next.js + Tailwind CSS
 
+## Previews
+
+![Light Theme Preview](preview_light.png)
+![Dark Theme Preview](preview_dark.png)
+
 ## To run this project:
 1. Clone this repository `git clone https://github.com/khianvictorycalderon/next-theme.git`
 2. Run `npm install`
